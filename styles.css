@@ -82,7 +82,8 @@ span a:hover {
 
 .avatar img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
 }
 
 .content {
@@ -95,5 +96,5 @@ span a:hover {
 
 span a img {
     width: 30px; 
-    height: 30px; 
+    height: auto; 
 }
