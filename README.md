@@ -34,4 +34,4 @@ This project is designed for beginners to get hands-on experience with version c
 - [GitHub Help](https://help.github.com)
 
 ## Support
-If you encounter any difficulties while working on this project, please reach out to your coach for assistance. Happy coding!
+If you encounter any difficulties while working on this project, please reach out.
